@@ -1,0 +1,156 @@
+{"level":"error","message":"Data not found","path":"","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"","service":"rentalManagement"}
+{"level":"error","message":"Data not found userService.searchProducts is not a function","path":"","service":"rentalManagement","stack":"TypeError: userService.searchProducts is not a function\n    at userController.searchProducts (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:89:40)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:47:12)"}
+{"level":"error","message":"Data not found Op is not defined","path":"","service":"rentalManagement","stack":"ReferenceError: Op is not defined\n    at userService.searchProducts (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\service\\userService.js:97:8)\n    at userController.searchProducts (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:89:40)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\index.js:175:3)"}
+{"level":"error","message":"Data not found","path":"","service":"rentalManagement"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found","path":"","service":"ecommerce"}
+{"level":"error","message":"Data not found user is not defined","path":"","service":"ecommerce","stack":"ReferenceError: user is not defined\n    at userController.getProductById (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:99:82)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"","service":"ecommerce"}
+{"level":"error","message":"order not found","path":"DELETE /admin/deleteOrder/2","service":"ecommerce"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/showOrder","service":"ecommerce"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/showOrder","service":"ecommerce"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/showOrder","service":"ecommerce"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"Data not found Cannot read properties of undefined (reading 'status')","path":"POST /admin/order","service":"ecommerce","stack":"TypeError: Cannot read properties of undefined (reading 'status')\n    at userService.createOrder (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\service\\userService.js:247:16)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async userController.createOrder (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:131:30)"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"order not found","path":"DELETE /admin/deleteOrder/9","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"Data not found statusCode is not defined","path":"POST /admin/order","service":"ecommerce","stack":"ReferenceError: statusCode is not defined\n    at userController.createOrder (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:135:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at joiBody (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\validation\\joi.js:46:5)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\middleware\\auth.js:45:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Data not found statusCode is not defined","path":"POST /admin/order","service":"ecommerce","stack":"ReferenceError: statusCode is not defined\n    at userController.createOrder (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:135:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at joiBody (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\validation\\joi.js:46:5)\n    at Layer.handle [as handle_request] (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Gayat\\Documents\\Ecommerce\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\middleware\\auth.js:45:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"order not found","path":"DELETE /admin/deleteOrder/11","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"Data not found items is not defined","path":"GET /admin/search","service":"ecommerce","stack":"ReferenceError: items is not defined\n    at userController.searchProducts (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:115:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"Data not found Unable to search products","path":"GET /admin/search","service":"ecommerce","stack":"Error: Unable to search products\n    at userService.searchProducts (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\service\\userService.js:145:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async userController.searchProducts (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:114:20)"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"Data not found items is not defined","path":"GET /admin/search","service":"ecommerce","stack":"ReferenceError: items is not defined\n    at userController.searchProducts (C:\\Users\\Gayat\\Documents\\Ecommerce\\src\\controller\\userController.js:115:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/search","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"GET /admin/showOrder","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"POST /admin/order","service":"ecommerce"}
+{"level":"error","message":"No data found","path":"PUT /admin/editOrder/1","service":"ecommerce"}
